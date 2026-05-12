@@ -18,3 +18,12 @@ Develop career in technology
 
 🚗My Journey:
 I developed an interest in coding and programming in 9. grade. There were even days when I coded for 12 hours straight. In 10th grade, to improve my English and my academic performance, I started the IB program, passing the entrance exam to earn my IB diploma. After completing various projects during this period, I had to return to my old high school and continued to participate in various activities and exams.
+
+-------------------------------------
+☎️Contact With Me:
+burakakbilek@gmail.com
+github
+
+-------------------------------------
+📂 Projects:
+You can see my projects by visiting my website or repositories
